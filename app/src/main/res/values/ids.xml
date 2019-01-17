@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txt_username" type="id" />
+    <item name="txt_nama" type="id" />
+    <item name="txt_tmpt_lahir" type="id" />
+    <item name="txt_tgl_lahir" type="id" />
+    <item name="txt_jk" type="id" />
+    <item name="txt_alamat" type="id" />
+    <item name="txt_no_hp" type="id" />
+    <item name="txt_email" type="id" />
+    <item name="txt_riwayat_organisasi" type="id" />
+</resources>

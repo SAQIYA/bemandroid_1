@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BEM Mobile</string>
+    <string name="desc_uppercase">BEM MOBILE</string>
+    <string name="desc_lowercase">BEM Mobile</string>
+    <string name="detail_info">Detail Anggota</string>
+    <string name="lihat_detail">Lihat Detail</string>
+</resources>
